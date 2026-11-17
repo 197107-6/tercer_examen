@@ -1,0 +1,12 @@
+(.venv) PS C:\Users\197107-6\Documents\tercer_examen\ejercicio_1> python main.py
+Ingrese el número de horas: 2
+Horas: 2
+Total a pagar: $30.0
+(.venv) PS C:\Users\197107-6\Documents\tercer_examen\ejercicio_1> python main.py
+Ingrese el número de horas: 4
+Horas: 4
+Total a pagar: $48.0
+(.venv) PS C:\Users\197107-6\Documents\tercer_examen\ejercicio_1> python main.py
+Ingrese el número de horas: 6
+Horas: 6
+Total a pagar: $60.0
