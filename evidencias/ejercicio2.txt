@@ -1,0 +1,15 @@
+(.venv) PS C:\Users\197107-6\Documents\tercer_examen\ejercicio_2> python main.py
+Número 1: 20
+Número 2: 8
+Resultado de la suma: 28
+Resultado de la resta: 12
+(.venv) PS C:\Users\197107-6\Documents\tercer_examen\ejercicio_2> python main.py
+Número 1: 30
+Número 2: 15
+Resultado de la suma: 45
+Resultado de la resta: 15
+(.venv) PS C:\Users\197107-6\Documents\tercer_examen\ejercicio_2> python main.py
+Número 1: 27
+Número 2: 13
+Resultado de la suma: 40
+Resultado de la resta: 14
